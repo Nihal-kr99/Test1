@@ -26,6 +26,7 @@ class Array1
 		System.out.println("Average marks are=" +avg);
 		System.out.println("This is demo");
 		System.out.println("In dev branch");
+		System.out.println("changes in dev branch");
 	
 		
 		
