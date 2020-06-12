@@ -25,7 +25,7 @@ class Array1
 		avg=avg/n;
 		System.out.println("Average marks are=" +avg);
 		System.out.println("This is demo");
-		System.out.println("This is second commit");
+	
 		
 		
 	}
